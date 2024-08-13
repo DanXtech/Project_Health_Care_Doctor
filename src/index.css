@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    scroll-behavior: smooth
+  }
+ 
+  /* @layer components{
+    
+
+  
+    .ui.button.circle{
+        @apply rounded-[50%];
+    }
+    .ui.button.round{
+        @apply rounded-[20px];
+    }
+    .ui.button.size-xs{
+        @apply rounded-[28px] px-2;
+    }
+    .ui.button.size-md{
+        @apply h-[54px] px-[34px] text-[16px];
+    }
+    .ui.button.size-xl{
+        @apply h-[64px] px-[34px] text-[16px];
+    }
+    .ui.button.size-lg{
+        @apply h-[64px] px-3;
+    }
+    .ui.button.bordered.indigo_50{
+        @apply border-indigo-50 border-[3px] border-solid
+    }
+
+    .ui.button.fill.cyan_800_63{
+        @apply bg-cyan-800_63
+    }
+
+    .ui.button{
+        @apply flex flex-row items-center justify-center text-center cursor-pointer whitespace-nowrap
+    }
+
+   
+    .ui.text.size-textxs {
+        @apply text-[12px] font-normal not-italic
+    }
+
+
+    .ui.text.size-textxl {
+        @apply text-[14px] font-normal not-italic;
+    }
+
+    .ui.text.size-textlg {
+        @apply text-[20px] font-normal not-italic
+    }
+
+    .ui.text {
+        @apply text-blue_gray-900 font-medium
+    }
+
+
+    .ul.heading.size-textlg {
+        @apply  text-[18px] font-medium
+    }
+
+    .ul.heading.size-headings {
+        @apply text-[18px] font-semibold;
+    }
+
+
+    .ul.heading.size-headingmd {
+        @apply text-[20px] font-semibold;
+    }
+    .ul.heading.size-headingxl {
+        @apply text-[20px] font-semibold;
+    }
+    
+    .ul.heading.size-headinglg {
+        @apply text-[36px] font-bold md:text-[34px] sm:text-[32px];
+    }
+
+    .ul.heading.size-heading2xl {
+        @apply text-[40px] font-semibold md:text-[38px] sm:text-[36px];
+    }
+
+    .ul.heading.size-heading3xl {
+        @apply text-[48px] font-semibold md:text-[44px] sm:text-[38px];
+    }
+
+
+    .ul.heading.size-heading4xl {
+        @apply text-[48px] font-bold md:text-[48px] ;
+    }
+
+
+    .ul.heading{
+        @apply text-blue_gray-900 font-poppins
+    }
+
+
+    .container-xs {
+        @apply w-full mx-auto max-w-[1200]
+    }
+
+
+} */
+
+/* .bgframe {
+    background-size: cover;
+    background-repeat: no-repeat;
+background-image: url("./assets/frame2.png");
+} */
